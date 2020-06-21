@@ -132,11 +132,11 @@ print(" sum < 5 : ", sum < 5)
 a =  int(input(" Enter first number : "))
 b =  int(input(" Enter second number : ")) 
 sum = a + b 
-   if sum > 5 :
+if sum > 5 :
    	print(" sum is greater than 5 ")
-   elif  sum < 5 :
+elif  sum < 5 :
    	print(" sum is less than 5 ")
-   else :
+else :
    	print(" sum is equal to 5 ")	
 
 
